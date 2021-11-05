@@ -45,7 +45,7 @@ Here, the negative words proportion is compared article wise. It's clear that se
 <img src="Results/R_insight_3.PNG">
 Here, using boxplots, overall picture of difference in terms of positive and negative proportion is shown for both serial killers and vital people. This visual also confirms the results we acquired from other visuals and our hypothesis.
 
-Above visuals are taken from Python's matplotlib library results. 
+Above visuals are taken from R's ggplot2 library results. 
 
 ### Hypothesis Results:
 
